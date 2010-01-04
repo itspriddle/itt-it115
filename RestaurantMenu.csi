@@ -1,0 +1,16 @@
+[History]
+B0=RestaurantMenu/frmLogin/cmdOK_Click
+B1=RestaurantMenu/frmLogin/Clock_Timer_Timer
+B2=RestaurantMenu/frmMain/cmdPrint_Click
+B3=RestaurantMenu/frmMain/mnuFilePrint_Click
+B4=RestaurantMenu/frmLogin/txtPassword_GotFocus
+B5=RestaurantMenu/frmMain/mnuAbout_Click
+B6=RestaurantMenu/frmUsersAdd/cmdBack_Click
+B7=RestaurantMenu/frmAbout/Form_Unload
+B8=RestaurantMenu/frmMain/cmdEmployees_Click
+B9=RestaurantMenu/frmMain/cmdMainSendOrder_Click
+B10=RestaurantMenu/modRest/Logout
+B11=RestaurantMenu/frmMain/cmdEditMenu_Click
+B12=RestaurantMenu/frmMain/mnuAdminEditMenu_Click
+B13=RestaurantMenu/frmMain/Timer1_Timer
+B14=RestaurantMenu/frmMain/mnuLunch_Click
